@@ -10,7 +10,7 @@
     * Client ID
     * Client Secret
 
-## Configure integration with [[TODO: Your service name]]
+## Configure integration with Photolok
 
 To configure the integration with Photolok, follow the steps below.
 
