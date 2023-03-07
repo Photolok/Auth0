@@ -15,7 +15,7 @@
 To configure the integration with Photolok, follow the steps below.
 
 1. In the Settings tab, set
-    * Authorization URL to `https://{photolok-domain}.photolok.net/auth`
+    * Authorization URL to `https://api.photolok.net/auth`
     * Token URL to `https://api.photolok.net/oauth/token`
     * Scope can be anything, typically `profile email`
     * Client ID and Client Secret to the values provided to you by Photolok support
