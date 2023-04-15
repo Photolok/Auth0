@@ -26,6 +26,6 @@ To configure the integration with Photolok, follow the steps below.
 
 ## Test connection
 
-You're ready to [test your connection.](https://auth0.com/docs/authenticate/identity-providers/social-identity-providers/devkeys)
+You're ready to [test your connection.](https://auth0.com/docs/authenticate/identity-providers/test-connections)
 
 
